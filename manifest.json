@@ -1,14 +1,1 @@
-{
-  "background_color": "#ffffff",
-  "dir": "auto",
-  "display": "standalone",
-  "name": "jdraja.github",
-  "orientation": "any",
-  "scope": "/Nu-app/",
-  "short_name": "jdraja",
-  "start_url": "https://jdraja.github.io/Nu-app/",
-  "theme_color": "#ffffff",
-  "description": "Hehxbbxbd xjjdjdbxx jddbbxbx",
-  "id": "Jdraja",
-  "lang": "en"
-}
+{"name":"Nu App — jdraja","short_name":"Nu-app","description":"Personal project and demo site for jdraja","lang":"en-US","dir":"ltr","start_url":"/Nu-app/","scope":"/Nu-app/","display":"standalone","orientation":"any","background_color":"#ffffff","theme_color":"#ffffff","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}],"id":"/Nu-app/"}
