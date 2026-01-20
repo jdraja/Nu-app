@@ -1,0 +1,7 @@
+{
+  "name": "Nur - Spiritual Prayer Companion",
+  "description": "A mindful prayer tracking application focused on building spiritual habits through reminders and history logging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
